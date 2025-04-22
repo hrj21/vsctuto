@@ -3,6 +3,7 @@
     "files.autoSaveDelay": 1000,
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
+    "editor.fontSize": 15,
     "editor.defaultFormatter": null,
     "r.bracketedPaste": true,
     "[r]": {
